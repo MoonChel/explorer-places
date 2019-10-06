@@ -8,7 +8,7 @@
             "email": "whiskeybar@turbomost.cz",
             "mobileNumber": "+420 775 018 444",
             "localtion": {
-                "latitude": 20,
+                "latitude": 20.0,
                 "longitude": 50.1
             },
             "social": {
